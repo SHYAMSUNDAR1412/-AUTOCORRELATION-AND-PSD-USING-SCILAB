@@ -60,8 +60,12 @@ plot(fw2);
 
   <img width="1919" height="1003" alt="Screenshot 2025-11-15 082450" src="https://github.com/user-attachments/assets/8edc30d2-0752-4bd4-b427-3a403a5f3243" />
   
+  ![WhatsApp Image 2025-11-28 at 12 15 01_77f9b81c](https://github.com/user-attachments/assets/bdd7b2a5-c472-419c-8c58-744e3aef2313)
+
+  
  # RESULT:
-   Thus the Autocorrelation and PSD are executed in Scilab and output is verified.
+  ![WhatsApp Image 2025-11-28 at 12 15 01_067a5221](https://github.com/user-attachments/assets/2ee237a0-3c61-4e69-a2bf-b1c1fedc0af8)
+
 
   
 
